@@ -1,1 +1,1 @@
-# Sahil Patil's marketing project for Restaurant booking
+Marketing project for Restaurant booking
